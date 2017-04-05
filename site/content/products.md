@@ -1,5 +1,5 @@
 ---
-title: Our Test Coffee
+title: Our Awesome Test Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
